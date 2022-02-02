@@ -9,7 +9,7 @@
 
 body {
     font-family: 'Press Start 2P', cursive;
-    background-color: rgb(105, 105, 105);
+    background-color: rgb(28, 28, 28);
     height: 100%;
 }
 
@@ -57,7 +57,12 @@ body {
 }
 
 .sobre-me2 {
-    padding: 0.8rem;
+    padding: 0.5rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.sobre-me3 {
+    padding: 0.5rem;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
